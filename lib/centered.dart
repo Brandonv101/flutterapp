@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//sample text here ignore
 class Centered extends StatelessWidget {
   Centered(this.text, {super.key});
   String text;
